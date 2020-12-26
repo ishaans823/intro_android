@@ -7,8 +7,6 @@ Beginner android projects for CodePath's Intro to Mobile App Dev Course
 App that allows the user to customize text, change background color, and change text color. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="https://i.imgur.com/Z52v1LW.gif" width=200><br>
 
 ### Required User Stories
